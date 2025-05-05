@@ -10,6 +10,27 @@ You can click the Preview link to take a look at your changes.
 --->
 <a href="https://www.linkedin.com/in/maria-eduarda-arruda-537527345/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   <a href = "mailto:contato@maria.arruda191"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.youtube.com/@MariaEduardaArruda-q2k" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
+
+<p align="left">About Me</p>
+
+###
+
+<p align="left">Sou uma jovem de 18 anos, atualmente cursando o primeiro semestre da graduação em Ciência de Dados, área que escolhi por unir tecnologia, lógica e a capacidade de transformar dados em soluções inteligentes. Estou em constante aprendizado e, neste momento, me aprofundo nos fundamentos de SQL, Python e Power BI, ferramentas essenciais para análise e visualização de dados.<br><br>Meu foco é construir uma base sólida de conhecimento técnico e desenvolver uma visão analítica capaz de gerar valor em diferentes contextos. Além das tecnologias que já estou estudando, tenho interesse em ampliar minhas habilidades para outras linguagens, como Java, e me tornar uma profissional versátil e preparada para os desafios do mercado de dados.<br><br>Acredito no aprendizado contínuo, na prática diária e na curiosidade como motores do desenvolvimento. Estou determinada a crescer na área, absorver novas ideias e contribuir com soluções inovadoras.</p>
+
+###
+
+<p align="left">Techs</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
 <p align="left">Stats</p>
 
 ###
@@ -21,4 +42,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/mariaarruda191/mariaarruda191/output/snake.svg" alt="Snake animation" />
+
+###
+
 
